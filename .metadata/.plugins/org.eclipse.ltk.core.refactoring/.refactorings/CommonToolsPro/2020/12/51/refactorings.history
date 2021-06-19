@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.tool.set.Notice&apos; to &apos;ListNoticeDemo&apos;&#x0D;&#x0A;- Original project: &apos;CommonToolsPro&apos;&#x0D;&#x0A;- Original element: &apos;com.tool.set.Notice&apos;&#x0D;&#x0A;- Renamed element: &apos;com.tool.set.ListNoticeDemo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Notice&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.tool.set{Notice.java[Notice" matchStrategy="1" name="ListNoticeDemo" qualified="false" references="true" similarDeclarations="false" stamp="1608365659658" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,37 @@
+package com.tool.thread;
+/**
+ * 线程优先级
+ * @author bhchen3
+ *
+ */
+
+class MyThreads extends Thread{
+	private String name;
+	public MyThreads(String name) {
+		this.name = name;
+	}
+	
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		super.run();
+	}
+}
+
+public class ThreadPriority {
+/*
+ * 优先级常量：
+ * MAX_PRIORITY:线程的最高优先级10
+ * MIN_PRIORITY:线程的最低优先级1
+ * NORM_PROORITY:线程的默认优先级5
+ * */
+	public static void main(String[] args) {
+		/*
+		 * 优先级相关方法：
+		 *public int getPriority() 获取优先级的方法
+		 *public void setProority(int newPriority) 设置线程优先级的方法
+		 * */
+
+	}
+
+}
